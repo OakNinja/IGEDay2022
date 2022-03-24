@@ -1,2 +1,7 @@
-# IGEDay2022
-IGE Day  - Introduce a girl to engineering 2022
+# IGEDay 2022
+IGE Day - Introduce a girl to engineering day 2022
+
+#### 1. Börja med att kolla att du har alla delar du behöver:
+--Bild--
+
+#### 2. 
