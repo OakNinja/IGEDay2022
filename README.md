@@ -33,3 +33,6 @@
 4. Nu kan du klicka på en knapp och sedan ändra vad som ska hända när man klickar på den!
 
 Om det är något du undrar över kan du fråga oss! :)
+
+Länk till webbsidan:
+![](https://github.com/OakNinja/IGEDay2022/raw/main/Images/qr-code.png)  
