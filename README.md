@@ -3,7 +3,7 @@
 #### 1. Börja med att kolla att du har alla delar du behöver:
 ![](https://github.com/OakNinja/IGEDay2022/raw/main/Images/overview_en.png)  
 
-#### 2. Sätt dit switcharna genom att trycka ned dem i chassit enligt bilden
+#### 2. Sätt dit switcharna genom att trycka ned dem i caset enligt bilden
 ![](https://github.com/OakNinja/IGEDay2022/raw/main/Images/switches.png)  
 
 #### 3. Sätt dit knapparna på switcharna
